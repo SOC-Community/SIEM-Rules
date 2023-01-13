@@ -38,7 +38,7 @@ Reference: https://kb.vmware.com/s/article/1021804
 ```
 Following by nuclei, metasploit, google:dork attack...
 
-# Graylog Pineline Rule:
+# Graylog Pineline Rule Example:
 ```
 rule "vcenter_check_blacklist_url"
 when
